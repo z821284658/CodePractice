@@ -10,7 +10,7 @@
 		Reconstruct
 		
 	UNDO: 
-		Console Input Process
+		Text UI Process
 		UserInput Check
 		Exception Address
 	
